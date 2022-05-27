@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
 html {
 	/* Prevent to add horizontal scroll bars 
 	on the site when adding padding to any element */
@@ -5,8 +7,15 @@ html {
 }
 
 body {
+	background: linear-gradient(
+		180deg,
+		#ffffff 0%,
+		#f3f8f7 49.91%,
+		#fff9f5 94.19%
+	);
+	font-family: "Inter", sans-serif;
 	margin: 0;
-	background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+	overflow-x: hidden;
 }
 
 .wrapper {
