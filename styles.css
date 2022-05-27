@@ -27,7 +27,6 @@ body {
 
 .title {
 	color: #54575A;
-	font-family: 'Inter';
 	font-size: 64px;
 	font-style: normal;
 	font-weight: 500;
@@ -37,4 +36,18 @@ body {
 	position: absolute;
 	top: 236px;
 	width: 458px;
+}
+
+.text {
+	color: #54575A;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	height: 96px;
+	left: 221px;
+	line-height: 32px;
+	padding-top: 32px;
+	position: absolute;
+	top: 403px;
+	width: 394px;
 }
