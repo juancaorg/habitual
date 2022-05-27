@@ -24,3 +24,17 @@ body {
 	position: relative;
 	width: 1440px;
 }
+
+.title {
+	color: #54575A;
+	font-family: 'Inter';
+	font-size: 64px;
+	font-style: normal;
+	font-weight: 500;
+	height: 135px;
+	left: 221px;
+	line-height: 68px;
+	position: absolute;
+	top: 236px;
+	width: 458px;
+}
