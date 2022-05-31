@@ -25,6 +25,20 @@ body {
 	width: 1440px;
 }
 
+.brand-img {
+	/* Auto layout */
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 0px;
+	gap: 15px;
+	position: absolute;
+	width: 193.07px;
+	height: 47.64px;
+	left: 221px;
+	top: 50.25px;
+}
+
 .title {
 	color: #54575A;
 	font-size: 64px;
